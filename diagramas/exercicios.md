@@ -1,14 +1,24 @@
+
 # Implementação do padrão de projetos Decorator
 
 ## Introdução
 
-O padrão Decorator é um padrão de projetos que é reponsável por
+O padrão Decorator é um padrão de projetos comportamental que permite adicionar um comportamento à um objeto já existente, agregando dinamicamente responsabilidades adicionais à um objeto.
+
+As principais propriedades dos padrões de projetos são:
+
+* Capturar o conhecimento e a experiência de especialistas em projeto de software.
+* Especificar abstrações que estão acima do nível de classes ou objetos isolados ou de componentes.
+* Definir um vocabulário comum para a discussão de problemas e soluções de projeto.
+* Facilitar a documentação e manutenção da arquitetura do software.
+* Auxiliar o projeto de uma arquitetura com determinadas propriedades.
+* Auxiliar o projeto de arquiteturas mais complexas.
 
 ## Diagrama
 
 Segue o diagrama do padrão de projeto:
 
-![diagrama](decorator.png "Diagrama")
+![diagrama](decorator-diagram.png "Diagrama")
 
 ## Código PlantUML
 

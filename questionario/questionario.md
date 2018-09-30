@@ -15,54 +15,43 @@ D) É-um
 E) Existe-um
 
 
-### 2. O que é uma superclasse?
+### 2. Uma subclasse terá todos os métodos e atributos públicos de uma superclasse
 
-A) Uma classe com muitos poderes e responsabilidades
+A) VERDADEIRO
 
-B) Uma classe que recebe métodos de uma subclasse
+B) FALSO
 
-C) 
+### 3. Em uma subclasse: 
 
-D) 
+A) É possivel eliminar métodos
 
-E)  
+B) É possível eliminar atributos
 
+C) É proibido adicionar métodos
 
-### 3. O que é uma subclasse? 
+D) é permitido adicionar atributos
 
-A) 
+E) Não é permitido nada
 
-B) 
+### 4. Na UML a herança múltipla é possível
 
-C) 
+A) VERDADEIRO
 
-D) 
+B) FALSO  
 
-E)  
+### 5. O que é verdadeiro sobre esse diagrama de classes? 
 
-### 4. enunciado? 
+![diagrama](oo.png "Diagrama")
 
-A) 
+A) A classe `Mamifero` é subclasse de `Gato`
 
-B) 
+B) A classe `Cachorro` não mantém relação de herança entre nenhuma classe
 
-C) 
+C) A classe `Gato` é um `Animal`
 
-D) 
+D) A classe `Gato` é superclasse de `Cachorro`
 
-E)  
-
-### 5. enunciado? 
-
-A) 
-
-B) 
-
-C) 
-
-D) 
-
-E)  
+E) A classe `Mamifero` possui uma relação de composição com as classes `Animal`, `Cachorro` e `Gato`
 
 ## Java
 

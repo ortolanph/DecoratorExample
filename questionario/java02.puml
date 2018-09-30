@@ -1,0 +1,27 @@
+@startuml   
+
+package question11 {
+
+    package a {
+
+    }
+
+    package b {
+
+    }
+
+    package c {
+
+    }
+
+    package d {
+
+    }
+
+    package e {
+
+    }
+
+}
+
+@enduml

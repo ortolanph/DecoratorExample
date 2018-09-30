@@ -1,8 +1,6 @@
 # Questionário Herança - Java
 
-## 1
-
-Qual a palavra chave para herança em Java? 
+## 1. Qual a palavra chave para herança em Java?
 
 A) `static`
 
@@ -14,9 +12,7 @@ D) `extends`
 
 E) `::`
 
-## 2
-
-Qual a palavra chave acessa métodos e atributos de uma superclasse? 
+## 2. Qual a palavra chave acessa métodos e atributos de uma superclasse? 
 
 A) `switch`
 
@@ -28,9 +24,7 @@ D) `private`
 
 E) `super`
 
-## 3
-
-Qual operador permite verificar se uma classe é subclasse de outra?
+## 3. Qual operador permite verificar se uma classe é subclasse de outra?
 
 A) `isA`
 
@@ -42,25 +36,19 @@ D) `extends`
 
 E) `protected`
 
-## 4
-
-Em uma subclasse é possível acessar os métodos e atributos privados de uma superclasse utilizando o operador `super`.
+## 4. Em uma subclasse é possível acessar os métodos e atributos privados de uma superclasse utilizando o operador `super`.
 
 A) VERDADEIRO
 
 B) FALSO
 
-## 5
-
-Em uma subclasse é possível acessar os métodos e atributos protegidos de uma superclasse utilizando o operador `super`.
+## 5. Em uma subclasse é possível acessar os métodos e atributos protegidos de uma superclasse utilizando o operador `super`.
 
 A) VERDADEIRO
 
 B) FALSO
 
-## 6
-
-A anotação `@Override` denota que um método foi:
+## 6. A anotação `@Override` denota que um método foi:
 
 A) sobrescrito
 
@@ -72,9 +60,7 @@ D) impossibilitado de sobrescrita
 
 E) marcado como estático
 
-## 7
-
-É possível herança múltipla em Java.
+## 7. É possível herança múltipla em Java.
 
 A) VERDADEIRO
 
@@ -84,9 +70,7 @@ B) FALSO
 
 ![diagrama](java01.png "Diagrama")
 
-## 8
-
-Quantos atributos e métodos terá a classe Cruzeiro?
+## 8. Quantos atributos e métodos terá a classe Cruzeiro?
 
 A) 3 - 1
 
@@ -98,9 +82,7 @@ D) 8 - 8
 
 E) 7 - 13
 
-## 9
-
-Qual alternativa não compila? 
+## 9. Qual alternativa não compila? 
 
 A) `cruzeiro instanceof Navio`
 
@@ -112,15 +94,14 @@ D) `submarino instanceof NavioMilitar`
 
 E) `submarino instanceof Object`
 
-## 10
-
-É possível reimplementar o método `atracar()` na classe submarino.
+## 10. É possível reimplementar o método `atracar()` na classe submarino.
 
 A) VERDADEIRO
 
 B) FALSO  
 
-## 11
+## 11. No diagrama abaixo, qual é a 
+
 
 ## 12
 

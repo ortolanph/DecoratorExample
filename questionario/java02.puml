@@ -1,27 +1,72 @@
 @startuml   
 
-package question11 {
+package pergunta11 {
 
-    package a {
+    package ij {
+        class I <<final>> {
+            + publish()
+        }
+
+        class J {
+            + publish()
+        }
+
+        I <|-- J
+    }
+
+    package gh {
+
+        class G {
+            ~ publicaMensagem()
+        }
+
+        package gh1 {
+            class H {
+                + publicaMensagem()
+            }
+        }
+
+        G <|-- H
 
     }
 
-    package b {
+    package ef {
+
+        class E {
+            # formatarString()
+        }
+
+        class F {
+            + formatarString()
+        }
+
+        E <|-- F
 
     }
 
-    package c {
+    package cd {
+        class C {
+            - metodo()
+        }
 
+        class D {
+            + metodo()
+        }
+
+        C <|-- D
     }
 
-    package d {
+    package ab {
+        class A {
+            + fazerAlgo()
+        }
 
+        class B {
+            + fazerOutraCoisa()
+        }
+
+        A <|-- B
     }
-
-    package e {
-
-    }
-
 }
 
 @enduml

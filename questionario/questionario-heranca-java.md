@@ -100,13 +100,16 @@ A) VERDADEIRO
 
 B) FALSO  
 
-## 11. No diagrama abaixo, qual é a 
+## 11. No diagrama abaixo, qual é a alternativa correta?
 
+![diagrama](java02.png "Dsiagrama")
 
-## 12
+A) pacote `ab`
 
-## 13
+A) pacote `cd`
 
-## 14
+A) pacote `ef`
 
-## 15
+A) pacote `gh`
+
+A) pacote `ij`

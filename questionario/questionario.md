@@ -121,7 +121,7 @@ A) VERDADEIRO
 
 B) FALSO
 
-**O diagrama a seguir é para reponder as questões 8 à XX** 
+**O diagrama a seguir é para reponder as questões 8 à 10** 
 
 ![diagrama](java01.png "Diagrama")
 

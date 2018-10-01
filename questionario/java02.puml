@@ -16,12 +16,12 @@ package pergunta11 {
 
     package gh {
 
-        class G {
+        class G <<package private>> {
             ~ publicaMensagem()
         }
 
         package gh1 {
-            class H {
+            class H <<package private>> {
                 + publicaMensagem()
             }
         }

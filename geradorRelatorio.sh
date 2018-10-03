@@ -12,3 +12,4 @@ function gerarRelatorio() {
 gerarRelatorio diagramas exercicios
 gerarRelatorio questionario questionario
 gerarRelatorio documentos palavras-chave-heranca
+gerarRelatorio documentos access-levels

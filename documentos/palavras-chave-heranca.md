@@ -2,8 +2,7 @@
 
 ## Sem Categoria
 
-Abstrato - Concreto - é um - Especialização - Generalização - Superclasse - Subclasse - `extends` - Contrato - `Object` - Triângulo Vazado - Comportamento - Sobreposição - `super` - Geral - Restrito
-
+Abstrato - Concreto - é um - Especialização - Generalização - Superclasse - Subclasse - `extends` - Contrato - `Object` - Triângulo Vazado - Comportamento - Sobreposição - `super` - Geral - Restrito - `private` - `public` - `protected` - package private - `package` - `instanceof` - `abstract` - `@Override`
 ## Categorizadas
 
 ### Conceito
@@ -30,3 +29,11 @@ Abstrato - Concreto - é um - Especialização - Generalização - Superclasse -
  * `extends` 
  * `Object` 
  * `super` 
+ * `private` 
+ * `public` 
+ * `protected` 
+ * package private 
+ * `package` 
+ * `instanceof` 
+ * `abstract` 
+ * `@Override`

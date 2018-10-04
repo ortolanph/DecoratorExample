@@ -1,4 +1,4 @@
-package org.pho.aulas;
+package org.pho.aulas.conta;
 
 public class ContaEspecial extends ContaCorrente {
 
@@ -9,7 +9,7 @@ public class ContaEspecial extends ContaCorrente {
     }
 
     @Override public int sacar(int valor) {
-        if(valor > (saldo + limite)) {
+        if (valor > (saldo + limite)) {
             return 0;
         } else {
             saldo -= valor;

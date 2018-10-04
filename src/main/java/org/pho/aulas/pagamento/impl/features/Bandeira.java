@@ -1,4 +1,4 @@
-package org.pho.aulas.impl.features;
+package org.pho.aulas.pagamento.impl.features;
 
 public enum Bandeira {
 

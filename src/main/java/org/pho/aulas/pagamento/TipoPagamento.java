@@ -1,4 +1,4 @@
-package org.pho.aulas;
+package org.pho.aulas.pagamento;
 
 public enum TipoPagamento {
 

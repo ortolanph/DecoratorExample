@@ -1,8 +1,8 @@
-package org.pho.aulas.impl;
+package org.pho.aulas.pagamento.impl;
 
-import org.pho.aulas.Pagamento;
-import org.pho.aulas.TipoPagamento;
-import org.pho.aulas.impl.features.Conta;
+import org.pho.aulas.pagamento.Pagamento;
+import org.pho.aulas.pagamento.TipoPagamento;
+import org.pho.aulas.pagamento.impl.features.Conta;
 
 import java.time.LocalDate;
 import java.time.Period;

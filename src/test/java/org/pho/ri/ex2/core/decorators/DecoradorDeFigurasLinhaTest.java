@@ -9,6 +9,7 @@ import org.pho.ri.ex2.figuras.impl.Circulo;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class DecoradorDeFigurasLinhaTest {
+
     private static final Linha LINHA = Linha.PONTILHADO;
 
     private Circulo figura;

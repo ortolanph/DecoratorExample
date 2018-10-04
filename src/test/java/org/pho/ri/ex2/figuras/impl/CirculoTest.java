@@ -6,9 +6,10 @@ import org.pho.ri.ex1.figuras.impl.Circulo;
 
 import static java.lang.Math.PI;
 import static java.lang.Math.pow;
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class CirculoTest {
+
     private static final double RAIO = 1;
 
     private Circulo circulo;

@@ -1,22 +1,22 @@
-package org.pho.aulas.impl;
+package org.pho.aulas.pagamento.impl;
 
-import org.pho.aulas.Pagamento;
-import org.pho.aulas.TipoPagamento;
-import org.pho.aulas.impl.features.Bandeira;
+import org.pho.aulas.pagamento.Pagamento;
+import org.pho.aulas.pagamento.TipoPagamento;
+import org.pho.aulas.pagamento.impl.features.Bandeira;
 
 import java.time.LocalDate;
 
 public class CartaoCredito extends Pagamento {
 
-    private String numeroCartao;
+    private final String numeroCartao;
 
-    private int codigoSeguranca;
+    private final int codigoSeguranca;
 
-    private LocalDate dataExpiracao;
+    private final LocalDate dataExpiracao;
 
-    private String titular;
+    private final String titular;
 
-    private Bandeira bandeira;
+    private final Bandeira bandeira;
 
     public CartaoCredito(String numeroCartao, int codigoSeguranca, LocalDate dataExpiracao, String titular,
         Bandeira bandeira) {

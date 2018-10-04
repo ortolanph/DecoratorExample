@@ -16,10 +16,10 @@ class ContaEspecialTest extends ContaCorrenteTest {
 
     @Test
     public void saqueMaiorQueSaldo() {
-        int valorSacado = cc.sacar(300);
+        int valorSacado = cc.sacar(400);
         int actual = cc.saldo();
         assertAll(
-            () -> assertEquals(200, actual),
+            () -> assertEquals( 200, actual),
             () -> assertEquals(0, valorSacado));
     }
 }

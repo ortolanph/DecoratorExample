@@ -13,6 +13,14 @@ public class DecoradorDeFigurasLinha extends DecoradorDeFiguras {
         this.linha = linha;
     }
 
+    @Override public double calcularArea() {
+        return figuraDecorada.calcularArea();
+    }
+
+    @Override public double calcularPerimetro() {
+        return figuraDecorada.calcularPerimetro();
+    }
+
     @Override public String descricao() {
         return figuraDecorada.descricao() + " com linha " + linha.name();
     }

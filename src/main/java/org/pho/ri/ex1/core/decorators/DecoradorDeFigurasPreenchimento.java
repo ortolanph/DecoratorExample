@@ -13,6 +13,14 @@ public class DecoradorDeFigurasPreenchimento extends DecoradorDeFiguras {
         this.preenchimento = preenchimento;
     }
 
+    @Override public double calcularArea() {
+        return figuraDecorada.calcularArea();
+    }
+
+    @Override public double calcularPerimetro() {
+        return figuraDecorada.calcularPerimetro();
+    }
+
     @Override public String descricao() {
         return figuraDecorada.descricao() + ", preenchimento: " + preenchimento.name();
     }

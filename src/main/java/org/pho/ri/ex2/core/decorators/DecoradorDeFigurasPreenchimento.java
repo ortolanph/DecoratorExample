@@ -14,11 +14,11 @@ public class DecoradorDeFigurasPreenchimento extends DecoradorDeFiguras {
     }
 
     @Override public double calcularArea() {
-        return 0;
+        return figuraDecorada.calcularArea();
     }
 
     @Override public double calcularPerimetro() {
-        return 0;
+        return figuraDecorada.calcularPerimetro();
     }
 
     @Override public String descricao() {
